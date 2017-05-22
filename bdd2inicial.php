@@ -6,8 +6,8 @@ class BDD {
 	function crearConnexio(){
 		//Connexió BBBDD
 		$servername = "localhost";
-		$username = "dawuser";
-		$password = "dawuser123";
+		$username = "usuaridaw";
+		$password = "1a2a3a4a5a";
 		$dbname = "webdaw";
 
 		// Create connection
